@@ -1,5 +1,6 @@
 # Image-Classification-CNN
 CNN-based image classification model using TensorFlow
+
 COMPANY:CODTECH IT SOLUTIONS
 
 NAME:SAYALI RAOSAHEB TADAGE
@@ -24,3 +25,5 @@ The CNN model is built using multiple convolutional layers, max-pooling layers, 
 This project demonstrates the practical implementation of CNNs for image classification and highlights the effectiveness of deep learning techniques in computer vision tasks.
 
 <img width="1920" height="724" alt="Image" src="https://github.com/user-attachments/assets/fca8ab32-8107-4e70-a44a-fae90b5cd4cb" />
+
+<img width="1920" height="861" alt="Image" src="https://github.com/user-attachments/assets/83074dff-6729-476c-83c9-9ad8cf4de20f" />
