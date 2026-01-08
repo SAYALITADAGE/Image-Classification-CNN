@@ -22,3 +22,5 @@ The CIFAR-10 dataset is used for training and testing the model. It consists of 
 The CNN model is built using multiple convolutional layers, max-pooling layers, and fully connected (dense) layers. The model is trained for several epochs, during which it gradually improves its accuracy. Model performance is evaluated using test accuracy, and learning behavior is visualized using accuracy graphs.
 
 This project demonstrates the practical implementation of CNNs for image classification and highlights the effectiveness of deep learning techniques in computer vision tasks.
+
+<img width="1920" height="724" alt="Image" src="https://github.com/user-attachments/assets/fca8ab32-8107-4e70-a44a-fae90b5cd4cb" />
